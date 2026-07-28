@@ -97,7 +97,7 @@ Complete execution of the application comparing Bubble Sort, Optimized Bubble So
 
 ### Bubble Sort
 
-![Bubble Sort](assets/images/bubble_sort_average_case.jpg)
+![Bubble Sort](assets/images/bubble_sort_output.jpg)
 
 Bubble Sort execution showing the average-case behavior, execution time, comparison count, and sorting validation.
 
@@ -105,7 +105,7 @@ Bubble Sort execution showing the average-case behavior, execution time, compari
 
 ### Optimized Bubble Sort
 
-![Optimized Bubble Sort](assets/images/bubble_sort_optimized.jpg)
+![Optimized Bubble Sort](assets/images/optimized_bubble_output.jpg)
 
 Execution of the optimized Bubble Sort algorithm using an early-exit mechanism to reduce unnecessary iterations.
 
@@ -113,7 +113,7 @@ Execution of the optimized Bubble Sort algorithm using an early-exit mechanism t
 
 ### Merge Sort
 
-![Merge Sort](assets/images/merge_sort.jpg)
+![Merge Sort](assets/images/merge_sort_output.jpg)
 
 Merge Sort execution demonstrating the divide-and-conquer strategy, execution time, comparison count, and correctness verification.
 

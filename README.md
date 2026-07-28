@@ -84,19 +84,19 @@ sorting-algorithms-performance-analysis
 
 ### Bubble Sort
 
-![Bubble Sort](assets/images/bubble_sort_output.png)
+![Bubble Sort](assets/images/bubble_sort_output.jpg)
 
 ---
 
 ### Optimized Bubble Sort
 
-![Optimized Bubble Sort](assets/images/optimized_bubble_output.png)
+![Optimized Bubble Sort](assets/images/optimized_bubble_output.jpg)
 
 ---
 
 ### Merge Sort
 
-![Merge Sort](assets/images/merge_sort_output.png)
+![Merge Sort](assets/images/merge_sort_output.jpg)
 
 ---
 
@@ -111,7 +111,7 @@ sorting-algorithms-performance-analysis
 
 ## Author
 
-José Luis Alva Salazar
+Luis Alva
 
 ---
 
